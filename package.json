@@ -1,11 +1,10 @@
 {
   "name": "nativescript-android-toast",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Toast Plugin for Nativescript Android Devices",
   "main": "index.js",
   "nativescript": {
     "platforms": {
-      "ios": "1.5.0",
       "android": "1.5.0"
     }
   },
@@ -16,12 +15,17 @@
   "keywords": ["Toast","Nativescript-toast","Nativescript-android-toast"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamabs2001/nativescript-android-toast.git"
+    "url": "https://github.com/iamabs2001/nativescript-android-toast"
   },
-  "author": "Abhijeet Sharma",
+  "author": {
+    "name": "Abhijeet Sharma",
+    "email": "abhijeetsharma248@gmail.com",
+    "url": "https://github.com/iamabs2001"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamabs2001/nativescript-android-toast/issues"
+    "url": "https://github.com/iamabs2001/nativescript-android-toast/issues",
+    "email": "abhijeetsharma248@gmail.com"
   },
   "homepage": "https://github.com/iamabs2001/nativescript-android-toast#readme"
 }

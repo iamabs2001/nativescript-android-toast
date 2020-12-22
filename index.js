@@ -4,11 +4,17 @@ var Toast = {};
 
 'use strict'
 
-Toast.MakeToast = (text) => {
+Toast.MakeToast = (text, duration) => {
+    
+    let toast_lenght = android.widget.Toast.LENGTH_SHORT;
+
+    if(duration === "long") {
+        toast_lenght = android.widget.Toast.LENGTH_LONG;
+    }
     android.widget.Toast.makeText(
         application.android.context,
         text,
-        android.widget.Toast.LENGTH_SHORT
+        toast_lenght
     ).show();
 }
 
