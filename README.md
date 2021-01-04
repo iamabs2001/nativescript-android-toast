@@ -2,7 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/nativescript-android-toast?color=blue)
 ![GitHub](https://img.shields.io/github/license/iamabs2001/nativescript-android-toast)
-[![Build Status](https://travis-ci.com/iamabs2001/nativescript-chrome-tabs.svg?branch=master)](https://travis-ci.com/iamabs2001/nativescript-chrome-tabs)
+[![Build Status](https://travis-ci.com/iamabs2001/nativescript-android-toast.svg?branch=master)](https://travis-ci.com/iamabs2001/nativescript-android-toast)
 ![npm](https://img.shields.io/npm/dt/nativescript-android-toast)
 ![GitHub issues](https://img.shields.io/github/issues-raw/iamabs2001/nativescript-android-toast)
 ![Status](https://img.shields.io/badge/status-working-green)
