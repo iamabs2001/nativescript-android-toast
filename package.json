@@ -1,6 +1,6 @@
 {
   "name": "nativescript-android-toast",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Toast Plugin for Nativescript Android Devices",
   "main": "index.js",
   "nativescript": {
