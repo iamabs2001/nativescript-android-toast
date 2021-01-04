@@ -23,10 +23,8 @@ MakeToast(text : String, duration : "long" or "short");
 ## API (Properties)
 | Property | Type | Require |Description |
 | --- | --- | --- | --- |
-| text | String | - [x] | Text you want to toast |
-| duration | String | - [ ] | "long" or "short" duration |
-
-<hr>
+| text | String | Required | Text you want to toast |
+| duration | String | Optional | "long" or "short" duration |
 
 ## Demo
 
